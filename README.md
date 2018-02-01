@@ -1,5 +1,5 @@
 test version
-copy from [BeiYuu.com]
+copy from [BeiYuu.com](http://beiyuu.com)
 
 
 ##原作者说明
