@@ -8,7 +8,7 @@ layout: default
       <div class="info-card">
         <h1>fusluv</h1>
         <a href="http://weibo.com/u/3177380934" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
-        <a href="http://tieba.baidu.com/home/main?un=Invictus_S" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="25"/></a>
+        <a href="http://tieba.baidu.com/home/main?un=Invictus_S" target="_blank"><img src="https://tieba.baidu.com/favicon.ico" alt="" width="25"/></a>
         <a herf="https://tieba.baidu.com/home/main?un=Invictus_S" target="_blank"><img src="https://tieba.baidu.com/favicon.ico" alt="" width="25"/></a>
         <a href="https://www.zhihu.com/people/vanilla-3/activities" target="_blank"><img src="https://www.zhihu.com/favicon.ico" alt="" width="25"/></a>        
       </div>
