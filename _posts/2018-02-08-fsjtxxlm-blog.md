@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      付帅今天学习了么
+date:       2018-02-08 21:00:00
 category: blog
 description: 并没有
 ---
