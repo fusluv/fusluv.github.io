@@ -12,6 +12,7 @@ layout: default
         <a href="https://www.zhihu.com/people/vanilla-3/activities" target="_blank"><img src="https://www.zhihu.com/favicon.ico" alt="" width="25"/></a>
         <a href="https://github.com/fusluv/" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="25"/></a>
         <a href="https://space.bilibili.com/10742992/" target="_blank"><img src="https://www.bilibili.com/favicon.ico" alt="" width="25"/></a>
+        <a href="http://steamcommunity.com/id/luv_is_4ever/" target="_blank"><img src="http://store.steampowered.com/favicon.ico" alt="" width="25"/></a>
       </div>
       <div id="particles-js"></div>
     </div>
